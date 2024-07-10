@@ -1,0 +1,46 @@
+.input-search {
+  border: 0px;
+  padding: 0.8vw;
+  width: 26vw;
+  height: 2vh;
+  margin: 2vmin;
+  border-radius: 0.8vw;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.card {
+  padding: 5vmin;
+  border-radius: 0.7vw;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  margin: 2vmin;
+  width: 50vmin;
+  /* left: 34%; */
+}
+
+button {
+  border: 0px;
+  cursor: pointer;
+  padding: 0.6vw;
+  border-radius: 0.3vw;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+button:hover {
+  background-color: rgb(10, 10, 44);
+  color: aliceblue;
+}
+
+.App {
+  text-align: center;
+  background-color: rgb(237, 237, 244);
+  padding: 20px;
+}
+
+.heading {
+  background-color: rgb(10, 10, 44);
+  color: aliceblue;
+  margin: 0px;
+  border-radius: 0.7vw;
+  padding: 2vmin;
+  width: 60vmin;
+}
